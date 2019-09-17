@@ -43,6 +43,11 @@ var friends = [
 		name: "Stanley James Hudson",
 		photo: "https://vignette.wikia.nocookie.net/theoffice/images/2/23/Stanley_Hudson.jpg/revision/latest?cb=20170701085445",
 		scores: [3, 1, 4, 4, 2, 4, 2, 5, 1, 3]
+    },
+    {
+		name: "Meredith Elizabeth Palmer",
+		photo: "https://vignette.wikia.nocookie.net/theoffice/images/9/90/2009Meredith.jpg/revision/latest?cb=20170701084945",
+		scores: [3, 1, 4, 4, 2, 4, 2, 5, 1, 3]
 	}
 ];
 
